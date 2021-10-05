@@ -1,0 +1,56 @@
+<!DOCTYPE html>   
+<html>
+
+<h1 style="Color:Lime">Storm</h1>
+<br>
+<a href="MyAccount.html">
+<img src="AccounticonL.jpeg" width="60">
+<title>
+
+	Storm.Dev
+</title>
+<a href="Download.html">
+	<img src="adownload.jpeg" width="70" alt="Downloads"</a> 
+
+<a href="Storm.Discord.html">
+<img src="Discord.jpeg" width="70" alt="Discord"</a>
+
+<a href="ContactUS.html">
+<img src="Support.jpeg" width="70" alt="Support"</a>
+
+
+<meta charset="UTF-8">
+<meta name="description" content="Join storm to get all cosmetics in fortnite, Join your friends party and play with skins ingame.">
+
+
+<p>
+<fieldset disabled="disabled">
+Download Storm to get all cosmetics in the game join your friends with unreleased skins and go ingame with the skin.
+</p>
+
+<h1>
+Annoucements
+</h1>
+<p>
+Storm v10 coming soon. In Storm v10 go ingame with skins and use mythics in creative
+</p>
+<head>
+  <link rel="stylesheet" type="text/css"
+  href="style.css"
+</head>
+
+
+
+</html>
+
+<h1>Storm promotion Video</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uzd6xMdZ4AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>
+Storm made by Stormzy
+Storm's website made by CastyiGlitchxz
+Epic games does not own storm and storm does not own epic games
+<br><br>
+Storm.Dev 2021Ⓒ 
+</p>
+</fieldset>
